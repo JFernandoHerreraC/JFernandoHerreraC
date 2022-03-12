@@ -2,7 +2,7 @@
 - 👀 I’m interested in working in back-end or architect.
 - 🌱 I’m currently learning I like to learn new programming languages ​​and
       new ways to improve my code.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on innovative or high-impact projects
 - 📫 How to reach me: fernando_ver908@hotmail.com or on twitter @JFernandoHC 
 
 <!---
